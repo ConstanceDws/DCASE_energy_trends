@@ -1,1 +1,4 @@
-# DCASE_energy_trends
+# Energy Consumption Trends in Sound Event Detection Systems
+## ICASSP 2025
+
+Deep learning systems have become increasingly energy- and computation-intensive, raising concerns about their environmental impact. As organizers of the Detection and Classification of Acoustic Scenes and Events (DCASE) challenge, we recognize the importance of addressing this issue. For the past three years, we have integrated energy consumption metrics into the evaluation of sound event detection (SED) systems. In this paper, we analyze the impact of this energy criterion on the challenge results and explore the evolution of system complexity and energy consumption over the years. We highlight a shift towards more energy-efficient approaches during training without compromising performance, while the number of operations and system complexity continue to grow. Through this analysis, we hope to promote more environmentally friendly practices within the SED community.
